@@ -2,8 +2,6 @@
 
 echo "Criando diretórios do sistema..."
 
-cd /
-
 mkdir /publico
 mkdir /adm
 mkdir /ven
